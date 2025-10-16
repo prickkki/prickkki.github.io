@@ -148,34 +148,8 @@ Eostrix will generate revenue through a diversified model, primarily focused on 
 *   **Professional Services:** Providing value-added services like tailored onboarding assistance, custom integration development, cybersecurity consulting, and advanced training workshops.
 *   **Data-driven Insights (Future):** Aggregated and anonymized threat intelligence or industry benchmarks offered as a premium service, providing valuable insights to subscribing organizations.
 
----
-
-## 12. About the Developer
-
-### Iulian Prichindel
 
 *   **Role:** Project Lead, Developer, Visionary
 *   **Email:** `ionel.prichindel@gmail.com`
-*   *(Optional: Add a brief bio or a link to a professional profile like LinkedIn/GitHub here.)*
-    *   *Example:* "Iulian is a passionate cybersecurity enthusiast with a strong background in [relevant fields, e.g., software development, network security, compliance]. He envisions Eostrix as the definitive solution for simplifying complex vulnerability management challenges for businesses worldwide."
-*   *(Optional: Insert a professional headshot here)*
 
----
 
-## 13. License
-
-*(This section will be updated with your chosen software license as the project develops.)*
-
-This project is licensed under the [Your Chosen License, e.g., MIT License, Apache 2.0 License] - see the `LICENSE` file for details.
-
----
-
-## 14. Contact
-
-For any inquiries, feedback, or collaboration opportunities, please feel free to reach out:
-
-*   **Developer:** Iulian Prichindel
-*   **Email:** `ionel.prichindel@gmail.com`
-*   *(Optional: Add links to project website, LinkedIn, GitHub, or other relevant platforms)*
-
----
