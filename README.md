@@ -12,9 +12,6 @@
 9.  [Project Metrics](#project-metrics)
 10. [Cost Structure](#cost-structure)
 11. [Revenue Streams](#revenue-streams)
-12. [About the Developer](#about-the-developer)
-13. [License](#license)
-14. [Contact](#contact)
 
 ---
 
