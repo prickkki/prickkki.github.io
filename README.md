@@ -156,7 +156,7 @@ Below are images gathered during the discovery process that validate external ma
 |:-------------|:------|
 | **Amazon job post** – searching for engineers to build internal security management platforms. | ![Amazon job post](amazon.png) |
 | **Stripe job post** – role description mentioning vulnerability management tooling. | ![Stripe job post](stripe.png) |
-| **LinkedIn conversation** – discussion about working on security platform development. | ![Conversation evidence](conversatie.png) |
+| **LinkedIn conversation** – discussion about working on security platform development. | ![Conversation evidence](converstatie.png) |
 
 ---
 
