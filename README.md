@@ -14,7 +14,7 @@ Designed to simplify cybersecurity operations while empowering compliance excell
 
 | Member | Role | Contact | Photo |
 |:--------|:------|:---------|:------|
-| **Ionel-Iulian Prichindel** | Founder • Project Lead • Visionary | 📧 [ionel.prichindel@gmail.com](mailto:ionel.prichindel@gmail.com) | ![Ionel-Iulian Prichindel](https://via.placeholder.com/120?text=Ionel+Iulian+Prichindel) |
+| **Ionel-Iulian Prichindel** | Founder • Project Lead • Visionary | 📧 [ionel.prichindel@gmail.com](mailto:ionel.prichindel@gmail.com) | ![Ionel-Iulian Prichindel](1738833406304.jfif) |
 
 > *“Growing the idea into a powerful solution that reshapes vulnerability management.”*
 
