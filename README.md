@@ -167,11 +167,15 @@ Interactions included:
 - **Online discussions** with professionals in the cybersecurity space via LinkedIn.  
 
 #### Key Questions Asked:
-1. How do you currently manage and prioritize vulnerabilities?  
-2. Which tools do you use, and what are their main limitations?  
-3. How do you handle compliance reporting and audits?  
-4. Would a single, centralized dashboard simplify your work?  
-5. What features would make such a platform essential?  
+1. How do you currently manage and prioritize vulnerabilities? 
+2. Can you walk me through the process from when a scanner finds a critical vulnerability to when it's resolved? 
+3. When you have a long list of vulnerabilities, how do you decide which ones to fix first?
+4. Tell me about the last time a critical vulnerability took longer than expected to fix.
+5. Which tools do you use, and what are their main limitations?  
+6. What's the most inefficient or frustrating manual task your team has to do regarding vulnerabilities management. 
+7. What's the most frustrating part about preparing for a compliance audit (like PCI DSS or ISO 27001)?  
+9. How do you currently gather and present evidence to auditors to prove a specific control is being met?
+10. Have you ever tried to get a budget for a new tool to help with these issues?
 
 #### Findings:
 - Raw data access is critical for transparency and trust.  
