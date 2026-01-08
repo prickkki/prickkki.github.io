@@ -206,6 +206,74 @@ While early validation shows strong interest and relevance, I plan to:
 
 > Eostrix is nearing the **Customer Validation stage**, with strong problem validation and growing evidence of market need.
 
+
+### Market Research
+
+### Market Size (TAM, SAM, SOM)
+- **Total Addressable Market (TAM):** The global Vulnerability Management market is projected to reach approximately $21,000,000,000 by 2028.
+- **Serviceable Addressable Market (SAM):** Mid-market SMEs in regulated sectors (Finance, Healthcare, Tech) seeking integrated compliance, estimated at $4,500,000,000.
+- **Serviceable Obtainable Market (SOM):** Targeting an initial capture of $$1,500,000$$ within the first 2 years by focusing on the EU and US mid-market.
+
+### Competition & Market Share
+| Competitor | Market Focus | Estimated Share |
+|:---|:---|:---|
+| **Tenable / Qualys** | Enterprise-level, heavy infrastructure. | $$\approx 35\%$$ |
+| **Rapid7** | Mid-to-Large enterprise, focus on VM. | $$\approx 12\%$$ |
+| **Fianu** | Governance Orchestration & DevOps compliance. | Emerging (Niche) |
+| **Eostrix** | SME-focused, Remediation-first, Integrated UI. | **Target: 0.5% - 2% (SME segment)** |
+
+*Note on Fianu: While Fianu focuses heavily on software supply chain and automated governance, Eostrix differentiates by providing the direct "how-to" remediation layer for infrastructure and web vulnerabilities.*
+
+### 5-Year Financial Projections
+| Year | Market Share (Target) | Estimated Revenue |
+|:---:|:---:|:---|
+| 1 | $$0.01\%$$ | $$150,000$$ |
+| 2 | $$0.05\%$$ | $$750,000$$ |
+| 3 | $$0.15\%$$ | $$2,250,000$$ |
+| 4 | $$0.25\%$$ | $$3,750,000$$ |
+| 5 | $$0.40\%$$ | $$6,000,000$$ |
+
+**Conclusion on Profitability:** Given the low overhead of a SaaS model and the high "stickiness" of compliance tools, Eostrix is projected to reach break-even by Year 2. The business is highly profitable due to the scalability of automated integrations and the recurring nature of subscription revenue.
+
+---
+
+## 🛠 Minimum Viable Product (MVP)
+
+**The MVP Story:**
+During our research, we discovered that developers were often paralyzed by complex security reports. After meeting a small entrepreneur who had to shut down his servers because he didn't know how to fix the vulnerabilities found. The Eostrix MVP was built not just to show data, but to act as a **Security Mentor**, providing the exact snippets needed to close security gaps instantly.
+
+### MVP Characteristics:
+1. **Unified API Integration**: Connects to major open-source and commercial scanners to prove data consolidation.
+2. **Unified Dashboard**: A place where you can quick learn your situation.
+3. **Reduces the noise**: A basic automated flow show you what to fix first.
+
+### MVP Validation & Metrics:
+- **Internal Traction (Ford)**: **600+ Beta Users** across **3 active teams** (Security, IT Ops, and Development).
+- **External Validation**: **4 Interviews** with devs and small business owners.
+- **Performance Impact**: Observed a **reduction** in Vulnerability Remediation Time (VRT) because developers no longer spend hours on research.
+
+---
+
+## 🧭 7. Customer Discovery & Validation
+
+### The "Knowledge Gap" Discovery
+Validation shifted significantly when we realized that **visibility without guidance equals anxiety.** Interviews with developers confirmed that the biggest bottleneck isn't finding the bug, but knowing the specific configuration fix for their environment.
+
+### Internal "Pull" at Ford
+A major validation milestone occurred when internal teams at Ford began submitting **feature requirements** for the beta. When users start requesting specific integrations (e.g., Jira exports, specific scanner APIs), it demonstrates that the product has moved from an experiment to a necessary tool in their daily workflow.
+
+---
+
+## 🦾 8. Key Metrics
+
+| Metric | Current Status (MVP) |
+|:--------|:-------------|
+| **Active Users** | 45+ |
+| **Active Teams** | 3 |
+| **Remediation Coverage** | 100% of critical MVP findings have guides |
+
+---
+
 ## 🌱 Vision Statement  
 
 > “To empower every organization—regardless of size—to achieve compliance and cybersecurity excellence through intelligent automation and unified visibility.”
