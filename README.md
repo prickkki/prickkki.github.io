@@ -240,7 +240,9 @@ While early validation shows strong interest and relevance, I plan to:
 ## 🛠 Minimum Viable Product (MVP)
 
 **The MVP Story:**
-During our research, we discovered that developers were often paralyzed by complex security reports. After meeting a small entrepreneur who had to shut down his servers because he didn't know how to fix the vulnerabilities found. The Eostrix MVP was built not just to show data, but to act as a **Security Mentor**, providing the exact snippets needed to close security gaps instantly.
+During our research, we discovered that developers were often paralyzed by complex security reports. After meeting a small entrepreneur who had to shut down his servers because he didn't know how to fix the vulnerabilities found. The Eostrix MVP was built not just to show data, but to act as a **Security Mentor**.
+<img width="1114" height="629" alt="image" src="https://github.com/user-attachments/assets/85caeab2-02d5-4a05-bf22-400020c64293" />
+
 
 ### MVP Characteristics:
 1. **Unified API Integration**: Connects to major open-source and commercial scanners to prove data consolidation.
