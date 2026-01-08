@@ -209,29 +209,26 @@ While early validation shows strong interest and relevance, I plan to:
 
 ### Market Research
 
-### Market Size (TAM, SAM, SOM)
-- **Total Addressable Market (TAM):** The global Vulnerability Management market is projected to reach approximately $21,000,000,000 by 2028.
-- **Serviceable Addressable Market (SAM):** Mid-market SMEs in regulated sectors (Finance, Healthcare, Tech) seeking integrated compliance, estimated at $4,500,000,000.
-- **Serviceable Obtainable Market (SOM):** Targeting an initial capture of $$1,500,000$$ within the first 2 years by focusing on the EU and US mid-market.
+#### Competition & Market Share
 
-### Competition & Market Share
 | Competitor | Market Focus | Estimated Share |
-|:---|:---|:---|
-| **Tenable / Qualys** | Enterprise-level, heavy infrastructure. | $$\approx 35\%$$ |
-| **Rapid7** | Mid-to-Large enterprise, focus on VM. | $$\approx 12\%$$ |
+| :--- | :--- | :--- |
+| **Tenable / Qualys** | Enterprise-level, heavy infrastructure. | ~35% |
+| **Rapid7** | Mid-to-Large enterprise, focus on VM. | ~12% |
 | **Fianu** | Governance Orchestration & DevOps compliance. | Emerging (Niche) |
 | **Eostrix** | SME-focused, Remediation-first, Integrated UI. | **Target: 0.5% - 2% (SME segment)** |
 
-*Note on Fianu: While Fianu focuses heavily on software supply chain and automated governance, Eostrix differentiates by providing the direct "how-to" remediation layer for infrastructure and web vulnerabilities.*
+**Note on Fianu:** While Fianu focuses heavily on software supply chain and automated governance, Eostrix differentiates by providing the direct “how-to” remediation layer for infrastructure and web vulnerabilities.
 
-### 5-Year Financial Projections
+#### 5-Year Financial Projections
+
 | Year | Market Share (Target) | Estimated Revenue |
-|:---:|:---:|:---|
-| 1 | $$0.01\%$$ | $$150,000$$ |
-| 2 | $$0.05\%$$ | $$750,000$$ |
-| 3 | $$0.15\%$$ | $$2,250,000$$ |
-| 4 | $$0.25\%$$ | $$3,750,000$$ |
-| 5 | $$0.40\%$$ | $$6,000,000$$ |
+| :---: | :---: | :--- |
+| 1 | 0.01% | $150,000 |
+| 2 | 0.05% | $750,000 |
+| 3 | 0.15% | $2,250,000 |
+| 4 | 0.25% | $3,750,000 |
+| 5 | 0.40% | $6,000,000 |
 
 **Conclusion on Profitability:** Given the low overhead of a SaaS model and the high "stickiness" of compliance tools, Eostrix is projected to reach break-even by Year 2. The business is highly profitable due to the scalability of automated integrations and the recurring nature of subscription revenue.
 
